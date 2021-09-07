@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'jaro.io icons';
-  src: url('https://assets.website-files.com/5e0f6cce946b126508a0d575/5f9ab59298522c8417d2d49a_jaroioicons.woff2') format('woff2'), url('https://assets.website-files.com/5e0f6cce946b126508a0d575/5f9ab5b39f507717447cc522_jaroioicons.eot') format('embedded-opentype'), url('https://assets.website-files.com/5e0f6cce946b126508a0d575/5f9ab5b3b35ee30cf16d2a7b_jaroioicons.woff') format('woff'), url('https://assets.website-files.com/5e0f6cce946b126508a0d575/5f7c5df09ac80d2e0444e87f_jaroio%20icons.ttf') format('truetype');
+  src: url('../assets/fonts/jaroioicons.woff2') format('woff2'), url('../assets/fonts/jaroioicons.eot') format('embedded-opentype'), url('../assets/fonts/jaroioicons.woff') format('woff'), url('../assets/fonts/jaroioicons.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
